@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Talha 👋
 
-<!--
-**talhaidrris-UIUX/talhaidrris-UIUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UI/UX & Branding Specialist
 
-Here are some ideas to get you started:
+I design thoughtful digital experiences and distinctive brand identities,
+combining strategy, aesthetics, and functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+- UI/UX Design
+- Brand Identity & Visual Systems
+- Web & Product Design
+- Creative Direction
+- Design Systems
+
+### Tools
+
+Figma • Adobe Illustrator • Adobe Photoshop • Canva
+
+### Currently exploring
+
+Bridging design and development to bring digital experiences to life.
